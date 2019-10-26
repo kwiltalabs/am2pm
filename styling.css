@@ -1,0 +1,30 @@
+*{
+     margin: 0;
+     padding:0;
+     box-sizing: border-box;
+}
+
+.header{
+     background-image:
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     height: 40vh;
+
+}
+.navigations{
+     background-color: blueviolet;
+     max-width: 50px;
+     max-height: 80px;
+     list-style: 10px;
+}
+
+
+navbar{
+     float: right;
+}
+.navbar li{
+     float: left;
+     margin: 20px;
+
+}
